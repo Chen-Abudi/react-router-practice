@@ -16,12 +16,12 @@ A practice project React, working on multi-page SPA with React Router.
 
 - React
 - JavaScript
-- CSS3
+- CSS Modules
 - React Router Dom
 
 ## 🛠️ Techniques:
 
-- Routes
+- Nested Routes
 
 ---
 
