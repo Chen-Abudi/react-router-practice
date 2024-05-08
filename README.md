@@ -23,6 +23,7 @@ A practice project React, working on multi-page SPA with React Router.
 ## 🛠️ Techniques:
 
 - Nested Routes
+- Navigation between pages
 
 ---
 
