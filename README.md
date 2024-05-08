@@ -12,12 +12,16 @@
 
 A practice project React, working on multi-page SPA with React Router.
 
-## 🧰 🛠️ Tech Stack & Techniques:
+## 🧰 Tech Stack:
 
 - React
 - JavaScript
 - CSS3
-- React Router
+- React Router Dom
+
+## 🛠️ Techniques:
+
+- Routes
 
 ---
 
