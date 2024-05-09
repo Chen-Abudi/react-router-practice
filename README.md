@@ -24,6 +24,11 @@ A practice project React, working on multi-page SPA with React Router.
 
 - Nested Routes
 - Navigation between pages
+- **`React Hooks`**:
+  - **useParams**: This hook gives access to multiple contents in the same URL path, and it enables each parameter to have a unique identification.
+- **`React Router Components`**:
+  - **React Outlet**: Is a component provided by React Router that serves as a placeholder for child routes within a parent route.
+  - **NavLinks**: Is used for navigation.
 
 ---
 
