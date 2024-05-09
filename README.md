@@ -29,6 +29,9 @@ A practice project React, working on multi-page SPA with React Router.
 - **`React Router Components`**:
   - **React Outlet**: Is a component provided by React Router that serves as a placeholder for child routes within a parent route.
   - **NavLinks**: Is used for navigation.
+- **Absolute Paths**
+- **Relative Paths**
+- **Index Routes**
 
 ---
 
