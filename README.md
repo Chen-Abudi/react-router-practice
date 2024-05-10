@@ -11,7 +11,7 @@
 
 ## 🔎 Intro:
 
-A practice project React, working on multi-page SPA with React Router.
+A practice project in React, working on multi-page SPA with React Router.
 
 ## 🧰 Tech Stack:
 
